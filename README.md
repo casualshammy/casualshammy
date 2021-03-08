@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://axio.name">Official Website</a></strong> |
-  <strong><a href="xmpp:axio@axio.name?message">Jabber</a></strong>
+  <strong><a href="https://axio.name">Website</a></strong> |
+  <strong>Jabber: axio@axio.name</strong>
 </p>
 
-<p align="center">I'm currently working on Software and Manga.</p>
+<p align="center">I'm currently working on Software and Manga / Ranobe.</p>
