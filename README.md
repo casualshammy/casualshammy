@@ -1,16 +1,19 @@
-### Hi there 👋
-
 <!--
-**casualshammy/casualshammy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <a href="https://axio.name"><img alt="banner" src="banner.png"></a>
+</p>
 -->
+
+<h1 align="center">Hi, I'm <a href="https://axio.name">Axio</a>!</h1>
+<h1 align="center">Welcome to my GitHub profile!</h1>
+
+<p align="center">
+  <a href="https://github.com/casualshammy"><img src="https://github-readme-stats.vercel.app/api?username=casualshammy&hide_border=true&show_icons=true" alt="casualshammy's github stats"></a>
+</p>
+
+<p align="center">
+  <strong><a href="https://axio.name">Official Website</a></strong> |
+  <strong><a href="xmpp:axio@axio.name?message">Jabber</a></strong>
+</p>
+
+<p align="center">I'm currently working on Software and Manga.</p>
