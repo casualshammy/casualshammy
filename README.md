@@ -8,7 +8,3 @@
   <br/>
   <a href="https://github.com/casualshammy"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=casualshammy" alt="casualshammy's github stats"></a>
 </p>
-
-
-
-<p align="center">I'm currently working on Software and Manga / Ranobe.</p>
